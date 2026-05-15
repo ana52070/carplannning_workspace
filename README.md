@@ -1,5 +1,7 @@
 # CarPlanning Workspace
 
+[中文文档](./README_CN.md) | English
+
 ROS2 workspace for an autonomous mobile robot built on a **Yahboom X3 differential-drive chassis**. The stack integrates wheel odometry, an on-board IMU, a Livox solid-state LiDAR, and a dual-antenna RTK GPS module (Unicorecomm UM982) for outdoor localization.
 
 ## Packages
