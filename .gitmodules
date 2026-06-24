@@ -1,0 +1,10 @@
+[submodule "carplanning_code/src"]
+	path = carplanning_code/src
+	url = https://github.com/ana52070/carplanning_code.git
+	branch = hardware
+[submodule "rtk_um982/src/um982_ros2_driver"]
+	path = rtk_um982/src/um982_ros2_driver
+	url = https://github.com/ana52070/um982_ros2_humble_driver.git
+[submodule "fastlio2/src/FASTLIO2_ROS2"]
+	path = fastlio2/src/FASTLIO2_ROS2
+	url = https://github.com/ana52070/FASTLIO2_ROS2.git
